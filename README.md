@@ -1,2 +1,2 @@
 # imageprocess
-## Classic Image Process Methods
+implementation of some classic image process methods with numpy
